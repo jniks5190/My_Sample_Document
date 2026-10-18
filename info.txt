@@ -7,3 +7,7 @@ For GITHUB -
 Username - jniks5190
 
 Password - ilovemyhanumanchalisa
+
+For POSTMAN - 
+
+Downloaded windows app already
