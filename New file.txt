@@ -1,1 +1,2 @@
 First time trying to add notepad file in the git
+Important information will be added here only
